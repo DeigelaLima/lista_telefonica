@@ -17,3 +17,11 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Command to run Bank-end
+```
+sudo docker-compose up -d
+```
+## Front-end
+![Lista Telefônica](lista_telefonica/../src/assets/lista_telefonica.png)
+
